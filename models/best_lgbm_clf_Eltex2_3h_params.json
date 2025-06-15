@@ -1,0 +1,15 @@
+{
+  "learning_rate": 0.050152171479260696,
+  "num_leaves": 127,
+  "max_depth": 8,
+  "min_data_in_leaf": 29,
+  "feature_fraction": 0.972738038759362,
+  "bagging_fraction": 0.9918127821070978,
+  "bagging_freq": 8,
+  "objective": "binary",
+  "metric": "auc",
+  "feature_pre_filter": false,
+  "verbosity": -1,
+  "verbose": -1,
+  "seed": 42
+}
